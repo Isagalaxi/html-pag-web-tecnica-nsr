@@ -1,0 +1,4 @@
+
+Euros= float(intup("ingrese la cantidad en Euros"))
+Pesos = Euros*445710
+print("La cantidad de Euros en Pesos es = $EUR" , Euros)

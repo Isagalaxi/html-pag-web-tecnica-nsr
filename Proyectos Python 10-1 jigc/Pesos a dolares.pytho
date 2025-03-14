@@ -1,0 +1,3 @@
+pesos= float(intup("ingrese la cantidad en pesos"))
+Dollar = pesos/4110
+print("La cantidad de pesos en dollares es = $US" , Dollar)
