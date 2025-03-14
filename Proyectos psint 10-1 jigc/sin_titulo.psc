@@ -1,3 +1,3 @@
-Algoritmo sin_titulo
-	
+Algoritmo Nombre_completo
+	Escribir"Juana Isabella Gomez Cisneros"
 FinAlgoritmo
