@@ -1,0 +1,2 @@
+lado=int(intup("Ingrese la medida del cuadrado:"))
+perimetro=lado*4
